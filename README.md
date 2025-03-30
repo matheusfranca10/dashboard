@@ -1,4 +1,4 @@
-# Dashboard
+## Sobre
 
 Este projeto cria um layout simples de **Dashboard** usando **HTML**, **CSS** e **JavaScript**.
 
